@@ -19,7 +19,7 @@ La interfaz de la aplicación será similar a la siguiente:
 
 Iconos utilizados: ![](https://github.com/Ayoamaro/GeoFX/blob/main/docs/images/icons-net.png?raw=true)
 
-IMPORTANTE: hay que mantener la disposición de los elementos en la interfaz, pero no es necesario cuidar el aspecto (estilos).
+**IMPORTANTE**: hay que mantener la disposición de los elementos en la interfaz, pero no es necesario cuidar el aspecto (estilos).
 
 Se deberá implementar siguiendo el patrón de diseño MVC.
 
